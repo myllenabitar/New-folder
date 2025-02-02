@@ -3,7 +3,7 @@
     padding: 40px 20px ;
     margin: 0 auto;
     display:grid;
-    grid-template-columns: 1fr 8fr;
+    grid-template-columns: 4fr 8fr;
     gap: 100px;
     align-items: center;
 }
@@ -14,7 +14,6 @@
     position: relative;
     
 }
-
 .sobremim h1::before {
     content:"";
     display: block;
